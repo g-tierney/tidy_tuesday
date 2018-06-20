@@ -34,3 +34,6 @@ vignettes/*.pdf
 
 #output data files
 *.png
+
+#the tidytuesday data folder
+tidytuesday*
